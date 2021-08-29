@@ -2,13 +2,15 @@
 
 This is Apo, a full-time non-stop programming passionest (Yeah I make up words). 
 
-- Besides Java, Linux, Database and Android Development courses that I've been learning in school, I tried to teach myself Kotlin, Unity with C#, and HTML5 Canvas for game development, and made some projects. 
-- Nowadays, I have settled down and I'm battling with MERN stack to make a full-stack and efficient real man project as well as I'm teaching programming as a peer tutor in Algonquin. 
-- I enjoy working with both frontend and backend, and I'm looking to collaborate on full-stack web projects.
-- LinkedIN -> https://www.linkedin.com/in/apo-zeki-ilgun-bb553a1b3/
-  Email: ilgu0001@algonquinlive.com
-  
-Happy coding!
+- 🕶️ With one year development experience, I have done various types of projects from Machine Learning to CRUD apps, Unity Games to Data Analyses
+- 🏫 I have a Computer Programming diploma with 3.95 GPA
+- 👓 I'm a part-time tutor in Algonquin College that I teach Linux, Database, Java, Android and Web development courses
+- 🛸 Besides the studies, I have a self-taught knowledge in full-stack JavaScript development(React, Nodejs/Express)
+- 📝 As a hobby in my free times, I write freelance video scripts for YouTube channels
+- 🤛 I am currently working on a serious website using Vue and Adonis.js with a partner, and I'll be free to colaborate on other web projects after it's done
+- 🤗 If you need any help, or wanna get to know me feel free to reach me out at [LinkedIn](https://www.linkedin.com/in/apo-ilgun-bb553a1b3/), or [Email](karkaplani88@gmail.com)
+
+Cheers!!
 
 <!--
 **karkaplani/karkaplani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
