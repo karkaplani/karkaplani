@@ -4,7 +4,7 @@ This is Apo, a full-time non-stop programming passionest (Yeah I make up words).
 
 **Past**
 - 🕶️ With one year of development experience, I have done various types of projects from Machine Learning to CRUD apps, Unity Games to Data Analyses
-- 🏫 I have a Computer Programming diploma with 3.95 GPA as well as studied Project Management prior to that
+- 🏫 I have a Computer Programming diploma with 3.95/4.0 GPA as well as studied Project Management prior to that
 - 🛸 Besides the studies, I have a self-taught knowledge in full-stack JavaScript development(React, Nodejs/Express)
 
 **Present**
