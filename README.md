@@ -1,6 +1,6 @@
 ### Hey folks! 👋
 
-This is Apo, a full-time non-stop programming passionest (Yeah I make up words). 
+This is Apo, a full-time non-stop programming passionest
 
 **Past**
 - 🕶️ With one year of development experience, I have done various types of projects from Machine Learning to CRUD apps, Unity Games to Data Analyses
@@ -13,7 +13,7 @@ This is Apo, a full-time non-stop programming passionest (Yeah I make up words).
 - 📝 As a hobby in my free times, I write freelance video scripts for YouTube channels
 
 **Future**
-- 🤛 As a freelance project, I am currently working on a complex website using Vue and Adonis.js with a partner, and I'll be free to colaborate on other web projects after it's done
+- 🤛 As a real-life project, I am currently working on a complex website using Vue and Adonis.js with a partner, and I'll be free to colaborate on other web projects after it's done
 - :dart: My goal is to become the master of UX development
 - 🤗 If you need any help, or just wanna get to know me feel free to reach me out at [LinkedIn](https://www.linkedin.com/in/apo-ilgun-bb553a1b3/), or [Email](karkaplani88@gmail.com)
 
