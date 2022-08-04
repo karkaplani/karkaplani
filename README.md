@@ -1,22 +1,19 @@
 I test,
 
 and I automate
-
-
+<br/>
 
 If I spot a task worth automating;
 
 I'll automate it
-
-
+<br/>
 
 If not;
 
 I'll manually test the crap out of the system
 
 And I'll smash bugs that you may not even see in your ugliest dreams
-
-
+<br/>
 
 I'm not the most careful person;
 
